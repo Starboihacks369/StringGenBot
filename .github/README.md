@@ -31,7 +31,7 @@
 
 ### 🙄 ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ
   
-  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/STRING_SESSION_MAKER_BOT)
+  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](http://t.me/STRING_SESSION_MAKER_BOT)
 
 ```
 Atleast Give A Star and Fork The Repo 🖤
