@@ -45,8 +45,13 @@
     "MUST_JOIN": {
       "description": "Username of a group or channel for which you want to set force sub.(without @)",
       "required": true,
-      "value": "DevilsHeavenMF"
+      "value": "Best_FriendsFor_Ever"
     },
+    "HEROKU_MODE": {
+      "discription": " Enable this for your ",
+      "value": " ENABLE",
+      "required": true
+     },
     "BOT_TOKEN": {
       "description": "Get this value from @BotFather",
       "required": true,
